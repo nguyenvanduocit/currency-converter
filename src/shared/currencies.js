@@ -1,0 +1,19 @@
+export default [
+  'USD',
+  'EUR',
+  'JPY',
+  'GBP',
+  'CHF',
+  'CAD',
+  'AUD',
+  'CNY',
+  'SGD',
+  'HKD',
+  'NOK',
+  'NZD',
+  'KRW',
+  'TRY',
+  'INR',
+  'ZAR',
+  'VND'
+]
